@@ -4,6 +4,6 @@ Texas, US, may be seeing positive feedback between bitcoin miners and massive wi
 
 `1.` Scrape Weather Data
 
-'2.' Data preprocessing and temporally aligns bitcoin blocks with appropriately timed weather measurements.
+`2.` Data preprocessing and temporally aligns bitcoin blocks with appropriately timed weather measurements.
 
-'3.' Simple model of the average blocktimes using Pymc's MCMC.
+`3.` Simple model of the average blocktimes using Pymc's MCMC.
