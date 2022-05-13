@@ -13,4 +13,4 @@ Texas, US, may be seeing positive feedback between bitcoin miners and massive wi
 
 ---
 
-<img src="https://github.com/SamGijsen/BTC/blob/main/TexasBTC.png" width="800" />
+<img src="https://github.com/SamGijsen/BTC/blob/main/TexasBTC.png" width="700" />
