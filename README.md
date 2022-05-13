@@ -8,3 +8,6 @@ Texas, US, may be seeing positive feedback between bitcoin miners and massive wi
 - Bitcoin block information may be retrieved from online sources, or directly from one's own personal node as done here.
 
 `3.` Simple model of the average blocktimes using Pymc's MCMC.
+
+
+![alt text](https://github.com/SamGijsen/BTC/blob/main/TexasBTC.png?raw=true)
