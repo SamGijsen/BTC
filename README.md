@@ -9,5 +9,8 @@ Texas, US, may be seeing positive feedback between bitcoin miners and massive wi
 
 `3.` Simple model of the average blocktimes using Pymc's MCMC.
 
+</br>
 
-![alt text](https://github.com/SamGijsen/BTC/blob/main/TexasBTC.png?raw=true)
+---
+
+<img src="https://github.com/SamGijsen/BTC/blob/main/TexasBTC.png" width="800" />
